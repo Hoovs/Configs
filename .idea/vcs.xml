@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmux/.tmux/plugins/tmux-sensible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmux/.tmux/plugins/tpm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/.tmux/plugins/tmux-sensible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/.tmux/plugins/tpm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/.vim/bundle/nerdtree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zsh/.oh-my-zsh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zsh/.oh-my-zsh/custom/themes/powerlevel9k" vcs="Git" />
+  </component>
+</project>
